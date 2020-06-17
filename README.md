@@ -149,27 +149,27 @@ Senac
 ## Projetos
 
 Conclusão de curso - TCC
-Ambiente Web para Acesso a Laboratório de Robótica com Lego Mindstorms.
+- Ambiente Web para Acesso a Laboratório de Robótica com Lego Mindstorms.
 
 GT4W
-Sistema de Coleta e Armazenamento de Dados de Inventário (SCADI).
-Sistema Estadual de Informação sobre Recursos Hídricos.
-Instituto de Geoinformação e Tecnologia (IGTEC).
-Gestão Municipal de Resíduos e Esgoto Sanitários - FEAM.
-Central de Informações Turística Integrada (CITI).
-Cadastro Ambiental Rural (CAR).
-Secretaria Municipal de Desenvolvimento Urbano SMDU – Contagem/MG.
-Sistema de Gestão de Entidades Públicas (URBGT).
+- Sistema de Coleta e Armazenamento de Dados de Inventário (SCADI).
+- Sistema Estadual de Informação sobre Recursos Hídricos.
+- Instituto de Geoinformação e Tecnologia (IGTEC).
+- Gestão Municipal de Resíduos e Esgoto Sanitários - FEAM.
+- Central de Informações Turística Integrada (CITI).
+- Cadastro Ambiental Rural (CAR).
+- Secretaria Municipal de Desenvolvimento Urbano SMDU – Contagem/MG.
+- Sistema de Gestão de Entidades Públicas (URBGT).
 
-Base2 - Localiza
-Ride Sharing (Parte 1 - Cadastro).
-Processamento de Despesas - Encerramento Automatico da SS RAC.
-Seminovos - Contas a Receber.
-Total Fleet - Relatório de Faturamento.
-Processamento de Despesas
+Base2: Localiza
+- Ride Sharing (Parte 1 - Cadastro).
+- Processamento de Despesas - Encerramento Automatico da SS RAC.
+- Seminovos - Contas a Receber.
+- Total Fleet - Relatório de Faturamento.
+- Processamento de Despesas
 
-Base2 - Pottencial
-Projeto Garantia / Subscrição Automática.
+Base2: Pottencial
+- Projeto Garantia / Subscrição Automática.
 
 ## Idiomas
 
