@@ -169,7 +169,30 @@ Base2: Localiza
 - Processamento de Despesas
 
 Base2: Pottencial
-- Projeto Garantia / Subscrição Automática.
+- Ambiente Web para Acesso a Laboratório de Robótica com Lego Mindstorms.
+	- Criação de uma aplicação que pudesse ser acessada de qualquer lugar com a finalidade de realizar a comunicação entre um software(ambiente desenvolvido) e o hardware(Kit de robótica Lego Mindstorms).
+- Sistema de Coleta e Armazenamento de Dados de Inventário (SCADI).
+	- A Universidade Federal de Lavras ( UFLA) e a Cemig se uniram para construir de um modelo fitogeográfico, cuja finalidade é beneficiar os programas de revitalização de suas áreas de preservação permanente.
+- Sistema Estadual de Informação sobre Recursos Hídricos.
+	- O Sistema Estadual de Informações sobre Recursos Hídricos (InfoHidro) tem como objetivos principais: coletar, tratar, armazenar, recuperar, disponibilizar e divulgar as informações que subsidiam a gestão dos recursos hídricos.
+- IGTEC - Instituto de Geoinformação e Tecnologia
+	- Projeto de cadastro de trechos e rotas para o Instituto de Geoinformação e Tecnologia com o intuito de solidificar a base geográfica de Minas Gerais para tomada de decisão e otimização de processos no que compete ao transporte escolar.
+- Gestão Municipal de Resíduos e Esgoto Sanitários - FEAM.
+	- Sistema de informações de Gestão de Resíduos Sólidos e Esgoto Sanitário que visa adaptar o sistema de cálculo do ICMS já existente nesse mesmo módulo para reunir informações sobre a destinação de resíduos sólidos, coleta seletiva, Plano de Gestão Integrada de Resíduos Sólidos – PGRIS e automonitoramento de estações de tratamento de esgoto ETEs.
+- Central de Informações Turística Integrada (CITI).
+	- É um sistema que tem por objetivo empreender atividades que possibilitem e facilitem a prestação de serviços de informação sobre a Rede Municipal de Turismo.
+- Cadastro Ambiental Rural.
+	- O Cadastro Ambiental Rural – CAR é um registro eletrônico, obrigatório para todos os imóveis rurais, que tem por finalidade integrar as informações ambientais referentes à situação das Áreas de Preservação Permanente - APP, das áreas de Reserva Legal, das florestas e dos remanescentes de vegetação nativa, das Áreas de Uso Restrito e das áreas consolidadas das propriedades e posses rurais do país.
+- Secretaria Municipal de Desenvolvimento Urbano SMDU – Contagem/MG.
+	- O Sistema de Informações da Secretaria Municipal de Desenvolvimento Urbano permitirá ao usuário fazer as solicitações dos serviços que hoje são presenciais de forma online através do formulário eletrônico, reduzindo as visitas dos contribuintes à unidade de atendimento da secretaria, além de permitir o acompanhamento dos processos em andamento de forma ágil, transparente e em tempo real.
+- URBGT - Sistema de Gestão de Entidades Públicas.
+	- É um sistema voltado à gestão eficiente de serviços públicos. Pode ser utilizado tanto por prefeituras quanto por empresas terceirizadas com contratos de Gestão de Iluminação Pública.
+- Ride Sharing (Parte 1 - Cadastro).
+- Processamento de Despesas - Encerramento Automatico da SS RAC.
+- Seminovos - Contas a Receber.
+- Total Fleet - Relatório de Faturamento.
+- Processamento de Despesas.
+- Projeto Garantia.
 
 ## Idiomas
 
